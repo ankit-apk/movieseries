@@ -19,7 +19,7 @@ class _MovieSearchState extends State<MovieSearch> {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         title: Text(
-          "MovieSeries",
+          "Search Movies",
           style: TextStyle(color: Colors.white),
         ),
       ),
